@@ -5,7 +5,7 @@ gcc_dependencies()
 {
   sudo apt-get -qq install \
 	intltool \
-	guile-2.0-dev \
+	guile-2.2-dev \
 	libsndfile1-dev \
 	libsmf-dev \
 	libgtk-3-dev \
