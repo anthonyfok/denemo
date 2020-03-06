@@ -6,7 +6,7 @@ gcc_dependencies()
   sudo apt-get -qq install \
 	intltool \
 	guile-2.0-dev \
-	libsndfile-dev \
+	libsndfile1-dev \
 	libsmf-dev \
 	libgtk-3-dev \
 	libgtksourceview-3.0-dev \

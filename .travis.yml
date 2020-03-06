@@ -1,6 +1,5 @@
-# Use Ubuntu trusty 14.04 LTS instead of the obsolete Ubuntu precise 12.04 LTS
 sudo: required
-dist: trusty
+dist: bionic
 language: c
 env:
   matrix:
